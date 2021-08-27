@@ -1,4 +1,6 @@
-# SUMMARY
+# 목차
 
-- abc
-  - [abc](/docs/CMI)
+- [읽어보기](README.md)
+
+* abc
+  - [abc](/CMI/README.md)
