@@ -20,8 +20,10 @@ $ npm run serve
 
 ### Publish
 
-github pages로 배포하기 위해 미리 작성해둔 스크립트를 실행함(스크립트 에서 커밋도 해주기 때문에 따로 커밋할 필요없음)
+github pages로 배포(스크립트에서 커밋과 푸쉬 모두 해주기 때문에 따로 커밋할 필요없음)
 
 ```shell
 $ npm run publish
 ```
+
+[CMI-BOOK](https://cmi-oss.github.io/cmi-book/)
