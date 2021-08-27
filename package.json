@@ -1,0 +1,29 @@
+{
+  "name": "cmi-book",
+  "version": "1.0.0",
+  "description": "CMI_BOOK",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx gitbook build",
+    "serve": "npx gitbook serve",
+    "publish": "sh publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMI-OSS/cmi-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMI-OSS/cmi-book/issues"
+  },
+  "homepage": "https://github.com/CMI-OSS/cmi-book#readme",
+  "dependencies": {
+    "gitbook-cli": "github:gengjiawen/gitbook-cli"
+  }
+}

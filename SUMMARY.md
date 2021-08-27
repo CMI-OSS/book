@@ -2,5 +2,5 @@
 
 - [읽어보기](README.md)
 
-* abcㅁ
+* abc
   - [abc](/CMI/README.md)
