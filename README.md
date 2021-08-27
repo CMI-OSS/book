@@ -23,7 +23,7 @@ $ npm start
 github pages로 배포(스크립트에서 커밋과 푸쉬 모두 해주기 때문에 따로 커밋할 필요없음)
 
 ```shell
-$ npm run publish
+$ npm run publish // windwos는 Git bash Shell에서 실행
 ```
 
 [CMI-BOOK](https://cmi-oss.github.io/cmi-book/)
