@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx gitbook build",
-    "serve": "npx gitbook serve",
+    "start": "gitbook serve",
+    "build": "sh build.sh",
     "publish": "sh publish.sh"
   },
   "repository": {
