@@ -15,7 +15,7 @@ $ npm install
 로컬서버에 gitbook 서버를 띄워서 테스트 할 수 있음. "http://localhost:4000" 으로 접근
 
 ```shell
-$ npm run serve
+$ npm start
 ```
 
 ### Publish
