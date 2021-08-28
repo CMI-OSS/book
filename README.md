@@ -2,6 +2,8 @@
 
 이곳은 CMI의 기록을 저장하는 공간입니다.
 
+[CMI-BOOK 바로가기](https://cmi-oss.github.io/cmi-book/)
+
 ## Quick Start
 
 ```shell
@@ -33,9 +35,11 @@ $ npm run publish
 ### Serve
 
 로컬서버에 gitbook 서버를 띄워서 테스트 할 수 있음. "http://localhost:4000" 으로 접근
+
 ```sheel
 $ npm install gengjiawen/gitbook-cli -g
 ```
+
 ```shell
 $ gitbook serve
 ```
@@ -47,5 +51,3 @@ github pages로 배포(스크립트에서 커밋과 푸쉬 모두 해주기 때�
 ```shell
 $ npm run publish // windwos는 Git bash Shell에서 실행
 ```
-
-[CMI-BOOK](https://cmi-oss.github.io/cmi-book/)
