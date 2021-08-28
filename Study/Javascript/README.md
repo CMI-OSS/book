@@ -1,6 +1,6 @@
 # CMI 스터디 2주차
 
-이번주 스터디는 Javascript입니다.
+이번주 스터디는 Javascript & DOM API입니다.
 
 ### 학습내용
 
@@ -8,7 +8,7 @@
 - ES6+
 - [HTML ES6 Module](https://snowdeer.github.io/javascript/2020/01/09/html5-how-to-use-module/)
 - DOM API
-- 옵저버 패턴
+- [옵저버 패턴](https://www.zerocho.com/category/JavaScript/post/5800b4831dfb250015c38db5)
 - 싱글톤 패턴
 
 ### 실습과제
