@@ -8,7 +8,10 @@
   - [Frontend](/Reference/Frontend/README.md)
   - [HTML&CSS](/Reference/HTML&CSS/README.md)
   - [Javascript](/Reference/Javascript/README.md)
+  - [Typescript](/Reference/Typescript/README.md)
+  - [취직/이직](/Reference/Job/README.md)
 
 - [Study](/Study/README.md)
   - [HTML&CSS](/Study/HTML&CSS/README.md)
   - [Javascript](/Study/Javascript/README.md)
+  - [Typescript](/Study/Typescript/README.md)
