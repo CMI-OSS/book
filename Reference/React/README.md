@@ -9,3 +9,4 @@
 ## 라이브러리
 
 - [awesome-react](https://github.com/enaqx/awesome-react)
+- [벨로퍼트 - Redux](https://react.vlpt.us/redux/)
