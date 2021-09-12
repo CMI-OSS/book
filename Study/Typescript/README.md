@@ -1,6 +1,6 @@
 # CMI 스터디 4주차
 
-이번주 스터디는 Typescript입니다.
+이번주 스터디는 Typescript와 Redux입니다.
 
 ### 학습(필수)
 
