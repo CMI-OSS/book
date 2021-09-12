@@ -10,3 +10,4 @@
 
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [벨로퍼트 - Redux](https://react.vlpt.us/redux/)
+- [React Redux 생활코딩](https://www.youtube.com/watch?v=fkNdsUVBksw&list=PLuHgQVnccGMDuVdsGtH1_452MtRxALb_7)
