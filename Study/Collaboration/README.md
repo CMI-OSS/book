@@ -14,9 +14,11 @@ CMI 스터디 5~8주차는 4주동안 Github를 사용하여 협업 프로젝트
 ### 이론과제
 - CORS(Cross-Origin Resource Sharing)
 - JWT Token
+
 ### 실습과제
 
 - 메신저 만들기
+
 #### 필수 기능
 - 회원가입(난이도 중)
 - JWT Token을 사용한 로그인(난이도 상)
